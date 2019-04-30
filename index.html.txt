@@ -15,7 +15,8 @@
   //tarea
   </article>
  <footer>
-  //tarea
+  <h1>PABLO estubo aqui >:(</h1>
+  <h2>Pablo estubo aqui 2</h2>  
 
 </footer>
 </body>
