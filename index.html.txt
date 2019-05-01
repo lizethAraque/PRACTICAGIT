@@ -13,6 +13,7 @@
   </aside>
   <article>
   //tarea
+<Paula Robayo></Paula Robayo> // agrega etiqueta con mi nombre //
   </article>
  <footer>
   <h1>PABLO estubo aqui >:(</h1>
